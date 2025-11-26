@@ -1,0 +1,1 @@
+O readMe.md(MarkDown) é basicamente uma apresentação do projeto onde explica como funciona o que precisa para funcionar e caso necessário como instalar ou configurar o projeto
