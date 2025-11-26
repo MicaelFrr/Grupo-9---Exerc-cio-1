@@ -1,0 +1,5 @@
+2 vantagens de usar Sistemas de controlo de versoes centralizados:
+
+1 - Possibilidade de um conjunto de pessoas partilharem um repositorio e poderem trabalhar no mesmo projeto juntas ao mesmo tempo, podendo juntar ficheiros no mesmo local.
+
+2- Nao perder historio nem açoes dos seus projetos e ficar tudo guardado sem risco de perder o progresso dos seus projetos, tudo no mesmo local/repositorios.
