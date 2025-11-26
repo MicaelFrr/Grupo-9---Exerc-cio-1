@@ -1,0 +1,3 @@
+Resposta: " vantagens de usar os sistemas de controlo de versoes centralizados são: É possivel criar um repositorio onde guarda todas as açoes e com historico sendo util para nao perder nenhum tipo de informaçao/codigo
+importante.
+Outra vantagem é o facto de ser possivel varias pessoas fazerem alteraçoes no mesmo repositorio sem perder as açoes ou mudanças e fica tudo guardado no mesmo local.
