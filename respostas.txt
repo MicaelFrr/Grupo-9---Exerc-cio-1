@@ -5,3 +5,5 @@
 2- Nao perder historio nem açoes dos seus projetos e ficar tudo guardado sem risco de perder o progresso dos seus projetos, tudo no mesmo local/repositorios.
 
 o comando para remover um ficheiro da staging area é git update
+
+o comando git clean -f -d remove untracked files da working tree forçando a deletar ficheiros ou diretórios sem precisar escrever o caminho
